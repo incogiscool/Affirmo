@@ -1,6 +1,9 @@
+**NOTE (18/01/26, 9:39 AM) The Affirmo python code is DONE, but I will upload once we get to the venue around 10-11 AM since I cant set it up at home**
+
+
 ## Technical Stuff
 
-We started by experimenting with **QNX** (a real-time operating system) before pivoting to a **Raspberry Pi 4** setup for faster development. Sometimes you have to sacrifice elegance for velocity.
+We started by experimenting with **QNX** (a real-time operating system) before pivoting to a **Raspberry Pi 4 OS** setup for faster development. Sometimes you have to sacrifice elegance for velocity.
 
 ### System Architecture
 
